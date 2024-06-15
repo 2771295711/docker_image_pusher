@@ -1,4 +1,3 @@
-kibana：7.4.0
 elasticsearch
 mysql
 redis

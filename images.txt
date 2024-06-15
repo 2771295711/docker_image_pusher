@@ -3,7 +3,6 @@ nacos/nacos-server
 zookeeper
 bitnami/kafka
 seataio/seata-server
-xuxueli/xxl-job-admin
 centos
 harisekhon/hbase
 mongo
@@ -14,3 +13,4 @@ redis
 java
 morunchang/fastdfs
 rabbitmq
+xxl-job-admin

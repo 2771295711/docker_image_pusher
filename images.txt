@@ -3,6 +3,4 @@ elasticsearch
 mysql
 redis
 java
-morunchang/fastdfs
 rabbitmq
-xxl-job-admin

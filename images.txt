@@ -1,12 +1,4 @@
-nginx
-nacos/nacos-server
-zookeeper
-bitnami/kafka
-seataio/seata-server
-centos
-harisekhon/hbase
-mongo
-kibana
+kibana：7.4.0
 elasticsearch
 mysql
 redis
